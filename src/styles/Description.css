@@ -1,0 +1,21 @@
+.description_app{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.description_app img{
+    width: 50%;
+}
+
+.description_app_t{
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.description_app_t p{
+    width: 60%;
+}
